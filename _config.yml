@@ -30,7 +30,7 @@ twitter_username: takeshi_kou
 github_username:  whuang12345
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
